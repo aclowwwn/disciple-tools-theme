@@ -299,7 +299,7 @@
     </section>
 
     <div class="reveal" id="contact-details-edit" data-reveal data-close-on-click="false">
-        <h1><?php esc_html_e( "Edit Contact", 'disciple_tools' ) ?></h1>
+        <h3><?php esc_html_e( "Edit Contact", 'disciple_tools' ) ?></h3>
         <div class="display-fields details-edit-fields">
             <div class="grid-x">
                 <div class="cell section-subheader">
